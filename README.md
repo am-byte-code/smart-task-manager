@@ -49,7 +49,7 @@ SmartTask/
 ├── SmartTask.aia # Main App Inventor project file
 │
 └── README.md # Project documentation
-'''
+
 
 ---
 
