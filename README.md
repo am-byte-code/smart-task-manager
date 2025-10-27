@@ -30,7 +30,7 @@ SmartTask automatically sorts tasks by priority and due date, ensuring you never
 ---
 
 ## 🗂️ Folder Structure
-
+'''bash
 SmartTask/
 │
 ├── assets/
@@ -49,7 +49,7 @@ SmartTask/
 ├── SmartTask.aia # Main App Inventor project file
 │
 └── README.md # Project documentation
-
+'''
 
 ---
 
