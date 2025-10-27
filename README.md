@@ -30,26 +30,28 @@ SmartTask automatically sorts tasks by priority and due date, ensuring you never
 ---
 
 ## 🗂️ Folder Structure
-'''bash
+
+```bash
 SmartTask/
 │
 ├── assets/
-│ ├── icons/ # App icons, splash images
-│ └── backgrounds/ # Background images for UI screens
+│   ├── icons/              # App icons, splash images
+│   └── backgrounds/        # Background images for UI screens
 │
 ├── docs/
-│ └── demo/ # Screenshots, videos, or GIFs showing app demo
+│   └── demo/               # Screenshots, videos, or GIFs showing app demo
 │
 ├── backend/
-│ └── logic_blocks.png # Screenshot/export of main backend logic
+│   └── logic_blocks.png    # Screenshot/export of main backend logic
 │
 ├── frontend/
-│ └── ui_design.png # Screenshot of the UI design
+│   └── ui_design.png       # Screenshot of the UI design
 │
-├── SmartTask.aia # Main App Inventor project file
+├── SmartTask.aia           # Main App Inventor project file
 │
-└── README.md # Project documentation
-
+├── LICENSE                 # Open-source license
+├── .gitignore              # Ignored files list for Git
+└── README.md               # Project documentation
 
 ---
 
