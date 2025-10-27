@@ -62,14 +62,6 @@ SmartTask/
 3. Import the `.aia` file (`Projects > Import project (.aia) from my computer`).  
 4. Build the app and install the generated `.apk` file on your Android device.  
 
----
-
-## 📸 Screenshots
-
-
-Example:
-
-
 
 ---
 
@@ -78,7 +70,9 @@ Example:
 - Integration of AI-powered task prioritization  
 - Cloud storage and multi-device sync  
 - Notifications and reminders  
-- Voice input for quick task creation  
+- Voice input for quick task creation
+- Quick Quizzes(Gamification)
+- Streak Calculation 
 
 ---
 
