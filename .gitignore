@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore build files and compiled artifacts
+/build/
+*.apk
+*.aab
+
+# Ignore local environment or config files
+*.env
+config.json
+
+# Ignore MIT App Inventor project cache
+/assets/cache/
